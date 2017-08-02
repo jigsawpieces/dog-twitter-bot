@@ -1,0 +1,16 @@
+{
+  "name": "twitter-dog-bot",
+  "version": "7.8.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "node-base64-image": "^1.0.4",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
